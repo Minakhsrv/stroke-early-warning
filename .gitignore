@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+# dataset: download it yourself (see data/README.md)
+data/*.csv
+*.zip
+*.rar
